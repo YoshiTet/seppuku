@@ -2,6 +2,8 @@
 
 Seppuku is a free, lightweight, open-source Minecraft Forge client-side mod for Minecraft 1.12.2. Oriented towards 9B9T, this is a full-featured anarchy mod with an external plugin API, unique exploits, and a solid community.
 
+This fork is just so I can mess around. 
+
 # Requirements
 - **JDK 8** (https://adoptopenjdk.net/, https://aws.amazon.com/corretto/)
 - __(optional)__ **Git**
